@@ -6,8 +6,8 @@ export let PROXY_CODE_SECRET = 'Easy-Reverse-Proxy'; // 代理码密钥
 // 代理
 export let PROXIES: Proxy[] = [
     {
-        domain: "anime.project.arden.moe",
-        url: "https://anime1.me/",
+        domain: "greasyfork.project.arden.moe",
+        url: "https://greasyfork.org/",
         enable: true
     }
 ];
